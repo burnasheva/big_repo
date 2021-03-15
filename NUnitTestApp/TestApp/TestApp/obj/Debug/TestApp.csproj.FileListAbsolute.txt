@@ -1,0 +1,6 @@
+C:\Users\Nadezhda.Burnasheva\test_projects\NUnitTestApp\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\Nadezhda.Burnasheva\test_projects\NUnitTestApp\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Nadezhda.Burnasheva\test_projects\NUnitTestApp\TestApp\TestApp\bin\Debug\nunit.framework.dll
+C:\Users\Nadezhda.Burnasheva\test_projects\NUnitTestApp\TestApp\TestApp\bin\Debug\nunit.framework.xml
+C:\Users\Nadezhda.Burnasheva\test_projects\NUnitTestApp\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\Nadezhda.Burnasheva\test_projects\NUnitTestApp\TestApp\TestApp\obj\Debug\TestApp.pdb

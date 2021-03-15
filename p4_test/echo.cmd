@@ -1,0 +1,1 @@
+echo "P4CLIENT is %P4CLIENT%"

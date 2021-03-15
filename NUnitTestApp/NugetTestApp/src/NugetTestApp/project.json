@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0-*",
+    "description": "NugetTestApp Console Application",
+    "authors": [ "Nadezhda.Burnasheva" ],
+    "tags": [ "" ],
+    "projectUrl": "",
+    "licenseUrl": "",
+
+    "dependencies": {
+        "NUnit": "3.0.0-beta-4",
+        "NUnit.Console": "3.0.0-beta-4"
+    },
+
+    "commands": {
+        "NugetTestApp": "NugetTestApp"
+    }
+}
